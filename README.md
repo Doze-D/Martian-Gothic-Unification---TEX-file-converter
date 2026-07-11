@@ -1,4 +1,4 @@
-# Martian Gothic: Unification — .TEX Converter
+# Martian Gothic: Unification - .TEX Converter
 
 A Python .PY script tool for converting the `.tex` texture files used by *Martian Gothic:
 Unification* to and from PNG, so they can be viewed, edited, and repacked.
