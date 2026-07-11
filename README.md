@@ -14,7 +14,7 @@ Feel free to give feedback, suggestions and even fork this further.
 - **Python 3** (3.8 or newer)
 - **Pillow** (the Python imaging library)
 
-Install Pillow from Command Promt if you don't already have it:
+Install Pillow from Command Prompt if you don't already have it:
 
 ```
 pip install Pillow
