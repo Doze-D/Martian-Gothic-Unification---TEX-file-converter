@@ -112,7 +112,7 @@ A single `.tex` file can hold multiple frames — for example, the
 different blood/damage stages of a face texture, or animation frames.
 All frames within one file share the same `pixel_format`.
 
-This covers every file checked so far in *Martian Gothic: Xplosive*
+This covers every file checked so far in *Martian Gothic: Unification*
 (character textures, UI panels, etc.) — the game appears to only use
 these two pixel formats. If you ever come across a `.tex` file that
 decodes with garbled colors, it likely uses a different `pixel_format`
@@ -130,5 +130,4 @@ code number rather than silently producing wrong output.
   version pauses before closing so you can read any output; if you're
   still seeing this, make sure you're running the actual updated file.
 - **Colors look wrong after extracting** — should no longer happen for
-  RGB565/ARGB4444 files; if it does, check what pixel format
-  TextureFinder reports for that file and send it over.
+  RGB565/ARGB4444 files.
