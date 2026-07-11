@@ -1,13 +1,17 @@
-# Martian Gothic: Xplosive — .TEX Converter
+# Martian Gothic: Unification — .TEX Converter
 
 A tool for converting the `.tex` texture files used by *Martian Gothic:
-Xplosive* to and from PNG, so they can be viewed, edited, and repacked.
+Unification* to and from PNG, so they can be viewed, edited, and repacked.
+
+NOTE: Created with Claude AI, Sonett v5 model, tested by me. 
+
+Feel free to give feedback, suggestions and even fork this further.
 
 ---
 
 ## Requirements
 
-- **Python 3** (3.8 or newer is safe; you mentioned you already have this installed)
+- **Python 3** (3.8 or newer)
 - **Pillow** (the Python imaging library)
 
 Install Pillow if you don't already have it:
